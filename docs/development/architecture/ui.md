@@ -25,4 +25,4 @@ Die UI fungiert als zentrale Steuerungseinheit des gesamten Systems:
 - **Echtzeit-Synchronisation**: Live-Updates über [API](api) und Socket.io für alle Systemänderungen
 - **Authentifizierung**: Single Sign-on über [Keycloak](keycloak) Integration
 
-Mehr Details zum Funktionsumfang und Systemaufbau finden sich im [Systemaufbau](systemaufbau) Teil unserer Dokumentation.
+Mehr Details zum Funktionsumfang und Systemaufbau finden sich im [Systemaufbau](/) Teil unserer Dokumentation.

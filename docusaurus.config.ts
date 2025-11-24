@@ -110,6 +110,7 @@ const config: Config = {
 				{
 					title: "Docs",
 					items: [
+						/*
 						{
 							label: "Getting Started",
 							to: "getting-started",
@@ -118,6 +119,7 @@ const config: Config = {
 							label: "FAQ",
 							to: "faq",
 						},
+						*/
 						{
 							label: "Help Improve The Docs",
 							to: "https://github.com/hfgd20/docs2",
