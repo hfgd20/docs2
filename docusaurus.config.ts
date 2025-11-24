@@ -6,7 +6,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config: Config = {
 	title: "hfgd2.0",
 	tagline: "building the future of hybrid education 🎓🚀",
-	favicon: "images/favicon.png",
+	favicon: "images/favicon.svg",
 
 	// Set the production url of your site here
 	url: "https://v2.hfg.design",
@@ -75,8 +75,8 @@ const config: Config = {
 		navbar: {
 			title: "hfgd2.0",
 			logo: {
-				src: "images/logo.png",
-				srcDark: "images/logo-dark.png",
+				src: "images/favicon.svg",
+				srcDark: "images/favicon.svg",
 			},
 			items: [
 				{
@@ -102,7 +102,7 @@ const config: Config = {
 		},
 		footer: {
 			logo: {
-				src: "images/logo-dark.png",
+				src: "images/favicon.svg",
 				height: 100,
 			},
 			style: "light",

@@ -3,7 +3,7 @@ import DocSidebar from "@theme-original/DocSidebar";
 import type DocSidebarType from "@theme/DocSidebar";
 import type { WrapperProps } from "@docusaurus/types";
 
-import { SidebarBanners } from "@site/src/components/SidebarBanners";
+// import { SidebarBanners } from "@site/src/components/SidebarBanners";
 
 type Props = WrapperProps<typeof DocSidebarType>;
 
@@ -15,9 +15,9 @@ export default function DocSidebarWrapper(props: Props): JSX.Element {
 					<DocSidebar {...props} />
 				</div>
 
-				<div className="mt-3 px-5">
+				{/* <div className="mt-3 px-5">
 					<SidebarBanners />
-				</div>
+				</div> */}
 			</div>
 		</>
 	);
