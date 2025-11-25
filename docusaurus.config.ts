@@ -12,7 +12,7 @@ const config: Config = {
 	url: "https://v2.hfg.design",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: "/docs2/",
+	baseUrl: "/docs/",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
@@ -51,7 +51,7 @@ const config: Config = {
 					routeBasePath: "/",
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: "https://github.com/hfgd20/docs2/blob/main",
+					editUrl: "https://github.com/hfgd20/docs/blob/main",
 					exclude: ["**/tab-**/**"],
 				},
 				// blog: false,
@@ -122,7 +122,7 @@ const config: Config = {
 						*/
 						{
 							label: "Help Improve The Docs",
-							to: "https://github.com/hfgd20/docs2",
+							to: "https://github.com/hfgd20/docs",
 						},
 					],
 				},
